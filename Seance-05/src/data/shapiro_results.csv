@@ -1,0 +1,3 @@
+test,shapiro_stat,pvalue,is_normal
+Loi-normale-Test-1,0.9639365077018738,6.236865583131948e-22,False
+Loi-normale-Test-2,0.26088815927505493,0.0,False
